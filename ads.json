@@ -1,1 +1,16 @@
-{}
+{
+    "jansPwdPolicy": {
+        "projectName": "jansPwdPolicy",
+        "description": "Agama project for username-password with 3 retries and 30 days password expiration.",
+        "type": "community",
+        "author": "pujavs",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/pujavs/agama-password",
+        "githubUri": "https://github.com/pujavs/agama-password",
+        "license": "MIT",
+        "lastUpdated": "1692196616129",
+        "tags": [
+            "authentication"
+        ]
+    }
+}

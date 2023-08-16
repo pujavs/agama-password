@@ -1,2 +1,3 @@
 Flow pujavs.io.jans.pwd
      Basepath ""
+     Timeout 2000 seconds

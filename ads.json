@@ -12,5 +12,19 @@
         "tags": [
             "authentication"
         ]
+    },
+    "puja-first": {
+        "projectName": "puja-first",
+        "description": "first-agama-project",
+        "type": "community",
+        "author": "pujavs",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/pujavs/agama-password",
+        "githubUri": "https://github.com/pujavs/agama-password",
+        "license": "MIT",
+        "lastUpdated": "1692778950951",
+        "tags": [
+            "authentication"
+        ]
     }
 }

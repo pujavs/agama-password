@@ -12,5 +12,19 @@
         "tags": [
             "authentication"
         ]
+    },
+    "user-pwd-auth-retry": {
+        "projectName": "user-pwd-auth-retry",
+        "description": "Project to validate credentials and max 3 retry in case of failed authentication",
+        "type": "community",
+        "author": "pujavs",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/pujavs/agama-password",
+        "githubUri": "https://github.com/pujavs/agama-password",
+        "license": "MIT",
+        "lastUpdated": "1692788433440",
+        "tags": [
+            "authentication"
+        ]
     }
 }

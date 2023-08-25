@@ -28,6 +28,9 @@
         "lastUpdated": "1692788433440",
         "tags": [
             "authentication"
+        ],
+        "noDirectLaunch": [
+            "pujavs.co.sample.basic.auth"
         ]
     },
     "test": {

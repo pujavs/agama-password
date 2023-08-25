@@ -55,7 +55,8 @@
 					"displayName": "",
 					"nodeColor": "",
 					"exceptionVariableField": ""
-				}
+				},
+				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 936,
@@ -67,8 +68,8 @@
 			"height": 122,
 			"id": "Agama-repeat-Node-93c78a02-cb0c-4329-bdc9-303880338cb3",
 			"position": {
-				"x": 841,
-				"y": 83
+				"x": 842,
+				"y": 82
 			},
 			"type": "repeat",
 			"data": {
@@ -79,8 +80,8 @@
 				"inRepeatBlock": false,
 				"handles": [],
 				"position": {
-					"x": 841,
-					"y": 83
+					"x": 842,
+					"y": 82
 				},
 				"agamaData": {
 					"id": "Agama-repeat-Node-93c78a02-cb0c-4329-bdc9-303880338cb3",
@@ -109,7 +110,7 @@
 					"arguments": "",
 					"logMessage": "",
 					"templatePath": "",
-					"maxIteration": "2",
+					"maxIteration": "3",
 					"idpAuthEndpoint": "",
 					"variableField": "",
 					"conditionInputField": "",
@@ -126,13 +127,13 @@
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:event-repeat-outline-rounded"
 				},
-				"skake": true
+				"skake": false
 			},
 			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 841,
-				"y": 83
+				"x": 842,
+				"y": 82
 			}
 		},
 		{

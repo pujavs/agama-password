@@ -11,6 +11,9 @@
         "lastUpdated": "1692196616129",
         "tags": [
             "authentication"
+        ],
+        "noDirectLaunch": [
+            "pujavs.io.jans.pwd"
         ]
     },
     "user-pwd-auth-retry": {

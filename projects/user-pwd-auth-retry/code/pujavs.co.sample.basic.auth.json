@@ -6,7 +6,7 @@
 			"id": "Agama-rrf-Node-5a77112a-9e95-44ac-8661-b811188ebbef",
 			"position": {
 				"x": 936,
-				"y": 315
+				"y": 314
 			},
 			"type": "rrf",
 			"data": {
@@ -17,7 +17,7 @@
 				"inRepeatBlock": true,
 				"position": {
 					"x": 936,
-					"y": 315
+					"y": 314
 				},
 				"agamaData": {
 					"id": "Agama-rrf-Node-5a77112a-9e95-44ac-8661-b811188ebbef",
@@ -32,14 +32,20 @@
 					"parentId": "Agama-repeat-Node-93c78a02-cb0c-4329-bdc9-303880338cb3",
 					"name": "",
 					"basepath": "",
-					"comment": "",
+					"comment": "Load the login page to ask username and password",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
-					"arguments": "",
+					"arguments": "authReuslt",
 					"logMessage": "",
-					"templatePath": "",
+					"templatePath": "login.ftlh",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
 					"variableField": "",
@@ -52,16 +58,20 @@
 					"maxIterationVariableName": "",
 					"logLevel": "",
 					"assignCallbackResult": "",
-					"displayName": "",
+					"displayName": "Login Page",
 					"nodeColor": "",
-					"exceptionVariableField": ""
+					"exceptionVariableField": "",
+					"nodeIcon": "ph:globe-simple",
+					"asssignedVariableName": "creds"
 				},
 				"skake": false
 			},
 			"positionAbsolute": {
 				"x": 936,
-				"y": 315
-			}
+				"y": 314
+			},
+			"selected": true,
+			"dragging": false
 		},
 		{
 			"width": 170,
@@ -129,7 +139,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 842,

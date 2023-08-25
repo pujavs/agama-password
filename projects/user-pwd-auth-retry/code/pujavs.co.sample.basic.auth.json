@@ -66,9 +66,10 @@
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1093.3763971238457,
@@ -207,7 +208,7 @@
 			"id": "Agama-assignment-Node-788fb664-689e-4eea-9750-2e5b395fc718",
 			"position": {
 				"x": 446.3900024414063,
-				"y": 314
+				"y": 312.6236028761542
 			},
 			"type": "assignment",
 			"data": {
@@ -218,7 +219,7 @@
 				"inRepeatBlock": true,
 				"position": {
 					"x": 446.3900024414063,
-					"y": 314
+					"y": 312.6236028761542
 				},
 				"agamaData": {
 					"id": "Agama-assignment-Node-788fb664-689e-4eea-9750-2e5b395fc718",
@@ -238,7 +239,7 @@
 					"flowfilename": "",
 					"assignments": [
 						{
-							"variableTypeCheck": true,
+							"variableTypeCheck": false,
 							"assignmentExpression": "creds.username",
 							"assignedVariableName": "authResult.uid"
 						}
@@ -266,11 +267,11 @@
 				},
 				"skake": false
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 446.3900024414063,
-				"y": 314
+				"y": 312.6236028761542
 			}
 		},
 		{

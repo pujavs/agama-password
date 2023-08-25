@@ -21,7 +21,7 @@
         "description": "Project to validate credentials and max 3 retry in case of failed authentication",
         "type": "community",
         "author": "pujavs",
-        "version": "0.0.1",
+        "version": "1.0.0",
         "authorWebsite": "https://github.com/pujavs/agama-password",
         "githubUri": "https://github.com/pujavs/agama-password",
         "license": "MIT",

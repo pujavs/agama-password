@@ -5,8 +5,8 @@
 			"height": 122,
 			"id": "Agama-repeat-Node-93c78a02-cb0c-4329-bdc9-303880338cb3",
 			"position": {
-				"x": 839,
-				"y": 87
+				"x": 840,
+				"y": 86
 			},
 			"type": "repeat",
 			"data": {
@@ -17,8 +17,8 @@
 				"inRepeatBlock": false,
 				"handles": [],
 				"position": {
-					"x": 839,
-					"y": 87
+					"x": 840,
+					"y": 86
 				},
 				"agamaData": {
 					"id": "Agama-repeat-Node-93c78a02-cb0c-4329-bdc9-303880338cb3",
@@ -33,7 +33,7 @@
 					"parentId": "Agama-assignment-Node-4e20919b-1402-4f9d-9133-7af0a4c661f4",
 					"name": "",
 					"basepath": "",
-					"comment": "Repeat 3 times if username and password are wrong",
+					"comment": "Repeat three times if username and password are wrong.",
 					"notes": "",
 					"flowfilename": "",
 					"assignments": [
@@ -56,20 +56,21 @@
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
-					"maxIterationVariableName": "",
+					"maxIterationVariableName": "retryCount",
 					"logLevel": "",
 					"assignCallbackResult": "",
-					"displayName": "Retry auth",
+					"displayName": "Retry Authentication attempt",
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"nodeIcon": "material-symbols:event-repeat-outline-rounded"
-				}
+				},
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 839,
-				"y": 87
+				"x": 840,
+				"y": 86
 			}
 		},
 		{
@@ -424,8 +425,8 @@
 		}
 	],
 	"viewport": {
-		"x": 10,
-		"y": 15,
-		"zoom": 1
+		"x": -649.4571571407132,
+		"y": -121.16007760834214,
+		"zoom": 1.6817928305074292
 	}
 }

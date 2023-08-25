@@ -36,10 +36,16 @@
 					"parentId": "Agama-when-Node-3ff9bc73-5bc3-4b4b-bbec-63fb23660bcd",
 					"name": "",
 					"basepath": "",
-					"comment": "",
+					"comment": "End of flow and return userid",
 					"notes": "",
 					"flowfilename": "",
-					"assignments": [],
+					"assignments": [
+						{
+							"variableTypeCheck": true,
+							"assignmentExpression": "",
+							"assignedVariableName": ""
+						}
+					],
 					"callType": "Call static method",
 					"arguments": "",
 					"logMessage": "",
@@ -49,16 +55,17 @@
 					"variableField": "",
 					"conditionInputField": "",
 					"valueField": "",
-					"returnVariable": "",
+					"returnVariable": "authResult.uid",
 					"javaClassName": "",
 					"javaMethodName": "",
 					"javaVariableName": "",
 					"maxIterationVariableName": "",
 					"logLevel": "",
 					"assignCallbackResult": "",
-					"displayName": "",
+					"displayName": "End flow",
 					"nodeColor": "",
-					"exceptionVariableField": ""
+					"exceptionVariableField": "",
+					"nodeIcon": "material-symbols:line-end-square-rounded"
 				},
 				"skake": true
 			},
@@ -849,8 +856,8 @@
 		}
 	],
 	"viewport": {
-		"x": -355.39001916330676,
-		"y": -39.43640144469669,
-		"zoom": 1.4142135623730956
+		"x": 286.44421001895427,
+		"y": 117.28578826599546,
+		"zoom": 0.5
 	}
 }

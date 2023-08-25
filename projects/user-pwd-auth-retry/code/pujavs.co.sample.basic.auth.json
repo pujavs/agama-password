@@ -5,8 +5,8 @@
 			"height": 140,
 			"id": "Agama-when-Node-3ff9bc73-5bc3-4b4b-bbec-63fb23660bcd",
 			"position": {
-				"x": 646.3900024414063,
-				"y": 324
+				"x": 648.3900024414063,
+				"y": 326
 			},
 			"parentId": "Agama-assignment-Node-788fb664-689e-4eea-9750-2e5b395fc718",
 			"type": "when",
@@ -17,8 +17,8 @@
 				"whenCondition": "",
 				"inRepeatBlock": true,
 				"position": {
-					"x": 646.3900024414063,
-					"y": 314
+					"x": 648.3900024414063,
+					"y": 326
 				},
 				"agamaData": {
 					"id": "Agama-when-Node-3ff9bc73-5bc3-4b4b-bbec-63fb23660bcd",
@@ -32,7 +32,7 @@
 						}
 					],
 					"variableField": "authResult.success",
-					"conditionInputField": "is",
+					"conditionInputField": "is not",
 					"valueField": "true",
 					"comment": "Check auth result is true"
 				},
@@ -45,8 +45,8 @@
 			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
-				"x": 646.3900024414063,
-				"y": 324
+				"x": 648.3900024414063,
+				"y": 326
 			}
 		},
 		{
